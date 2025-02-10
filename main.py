@@ -34,7 +34,7 @@ def train_model():
 
 def main():
 
-    st.title("Simple Linear Regreesion House Prediction App")
+    st.title("Simple Linear Regression House Prediction App")
     st.write("enter in house size to know its price ")
 
 
